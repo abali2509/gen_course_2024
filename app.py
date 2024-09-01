@@ -1,4 +1,3 @@
-import os
 import time as t
 from src.utils.menu import main_menu, product_menu
 from src.products.products_function import clear_console,list_product,create_products,update_products,delete_products, products
