@@ -1,4 +1,3 @@
-Americano
-Latte
-Green Tea
-English Tea
+Chai Latte
+Hot Choc
+Water
