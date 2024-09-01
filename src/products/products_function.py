@@ -4,9 +4,7 @@ import os
 def clear_console():
     os.system('clear')
 
-# This is the main menu 
-
-
+# Products lists - to be used in product related activates 
 products = ['Americano', 'Latte', 'Green Tea', 'English Tea', 'Water']
 
 # Function to list products
