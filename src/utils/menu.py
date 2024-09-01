@@ -6,7 +6,7 @@ main_menu = """
                 0 - Exit 
                 1 - Product Menu
                 """
-
+# product menu
 product_menu = """
                 Product Menu
                 0 - Return To Main Menu
