@@ -1,4 +1,11 @@
-Name,Age,City
-Alice,30,New York
-Bob,25,Los Angeles
-Charlie,22,Chicago
+name|price
+Americano|3.00
+Espresso|2.75
+Latte|3.5
+Iced Latte|4.25
+Iced Coffee|3.00
+Cappuccino|3.50
+Macchiato|3.00
+Mocha|3.75
+Iced Mocha|4.50
+Hot Chocolate|3.60
