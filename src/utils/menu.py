@@ -25,3 +25,13 @@ courier_menu = """
                 3 - Update Courier
                 4 - Delete Courier
                 """
+
+
+orders_menu = """
+                Orders Menu
+                0 - Return To Main Menu
+                1 - List Orders
+                2 - Create New Orders 
+                3 - Update Orders
+                4 - Delete Orders
+                """
