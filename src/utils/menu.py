@@ -6,6 +6,7 @@ main_menu = """
                 0 - Exit 
                 1 - Product Menu
                 2 - Couriers Menu
+                3 - Orders Menu
                 """
 # product menu
 product_menu = """
